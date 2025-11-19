@@ -11,5 +11,8 @@ A text-to-speech converter built with HTML, CSS, and JavaScript. It converts wri
 ## Technologies Used
 HTML, CSS and Javascript
 
+## Screenshot
+Here is a preview of the Text-to-Speech Converter:
+
 <img width="1024" height="637" alt="Text to Speech Converter preview" src="https://github.com/user-attachments/assets/b02a58d5-ad6c-4e78-919e-26145e1063f8" />
 
